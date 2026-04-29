@@ -35,3 +35,4 @@ Systems Engineering student with strong analytical thinking and experience in fu
 ## Contact
 📧 julietasleiman@gmail.com  
 📍 Tucumán, Argentina  
+🌐 Portfolio: [Ver mi portfolio](miportfolio-julietasleiman.vercel.app)
